@@ -1,0 +1,15 @@
+*{
+    text-transform: capitalize;
+}
+
+div{
+    background-color: pink;
+    height: 200px;
+    width: 500px;
+}
+div ul{
+    background-color: green;
+}
+div li{
+    background-color: blue;
+}
